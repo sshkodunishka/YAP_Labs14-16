@@ -1,0 +1,12 @@
+Тест Без ошибок
+---- Протокол ---- Дата: 16.11.2021 12:24:15 ----
+---- Параметры ----
+-log: D:\BSTU\LP_Lab14\input.txt.log
+-out: D:\BSTU\LP_Lab14\input.txt.out
+-in: D:\BSTU\LP_Lab14\input.txt
+-IT: D:\BSTU\LP_Lab14\input.txt.IT
+-LT: D:\BSTU\LP_Lab14\input.txt.LT
+---- Исходные данные ----
+Количество символов: 761
+Проигнорировано: 26
+Количество строк: 42

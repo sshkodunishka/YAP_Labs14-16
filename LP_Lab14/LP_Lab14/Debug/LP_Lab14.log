@@ -1,0 +1,19 @@
+﻿  Analysis.cpp
+  Error.cpp
+  FST.cpp
+D:\BSTU\LP_Lab14\LP_Lab14\FST.cpp(70,37): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+  Functions.cpp
+D:\BSTU\LP_Lab14\LP_Lab14\Functions.cpp(23,30): warning C4018: <: несоответствие типов со знаком и без знака
+  GRB.cpp
+  In.cpp
+D:\BSTU\LP_Lab14\LP_Lab14\In.cpp(53,12): warning C4018: <: несоответствие типов со знаком и без знака
+  IT.cpp
+D:\BSTU\LP_Lab14\LP_Lab14\IT.cpp(92,26): warning C4018: <: несоответствие типов со знаком и без знака
+  Log.cpp
+  LP_Lab14.cpp
+  LT.cpp
+  MFST.cpp
+  Parm.cpp
+  PolishNotation.cpp
+  Создание кода...
+  LP_Lab14.vcxproj -> D:\BSTU\LP_Lab14\Debug\LP_Lab14.exe
